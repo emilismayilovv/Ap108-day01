@@ -1,0 +1,32 @@
+What is Git?
+
+Git is a distributed version control system.
+
+
+What is Github?
+
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service.
+
+
+What is Gitbash?
+
+Simply put, GIT BASH is a terminal.
+
+Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience.
+
+
+What do you understand by the term ‘Version Control System’?
+
+Version control, also known as source control, is for tracking and managing changes to software code.
+
+
+What benefits come with using GIT?
+
+It has advantages such as Performance, Security, Flexibility, Wide acceptance, Quality open source project.
+
+
+What is a Git repository?
+
+A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. 
+Meaning, if you delete the .git/ folder, then you delete your project’s history.
+
